@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 
 ## How To Contribute 
 Sample change
+
+### Copyright
+2014 Git.Training.
